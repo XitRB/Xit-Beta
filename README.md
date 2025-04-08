@@ -1,5 +1,5 @@
 if true --[[success and groupInfo and groupInfo.Description:lower():find(descriptionToCheck:lower())]] then
-    local library = loadstring(game:HttpGet("https://you.whimper.xyz/sources/badscripts/TN_UI.lua"))()
+    local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/XitRB/Xit-Beta/refs/heads/main/README.md"))()
     local venyx = library.new("XIT RBN BETA", 5013109572)
     local Players = game:GetService("Players")
     local RunService = game:GetService("RunService")
